@@ -16,19 +16,28 @@
 *  **로그아웃**<br>
 -세션을 무효화시킨다.
 
-*  **가습모드**<br>
--가습에 도움이 되는 디퓨저를 제어한다. (강, 약)<br>
--수면, 집중 모드와 mix 가능
+*  **회원가입**<br>
+-아이디, 비밀번호, 이름, 나이, 성별, 이메일주소를 등록한다<br>
+
+*  **게시판 글쓰기**<br>
+-글 비밀번호, 제목, 내용 작성과 파일첨부 후 글을 등록한다.<br>
+
+*  **게시판 글수정**<br>
+-글 비밀번호를 입력한후 맞으면 제목과 내용, 파일첨부를 수정할 수 있다.<br>
+
+*  **게시판 글삭제**<br>
+-글을 삭제한다.<br>
+
+*  **답변 달기**<br>
+-다른 사람의 원문글에 답변을 달 수 있다.<br>
 
 ## 1.4. 개발 환경
 * eclipse
 
 ****
 # 2. 구성
-## 2.1. 시스템 구성도
-![시스템 구성](https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/smart/시스템구성.png)
 
-## 2.2. SW 구성
+## 2.1. SW 구성
 <img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/smart/구성.png" width="300" height="300"><br>
 
 ****
