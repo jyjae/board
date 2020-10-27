@@ -38,7 +38,7 @@
 # 2. 구성
 
 ## 2.1. SW 구성
-<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/smart/구성.png" width="300" height="300"><br>
+![board_sw_struct](https://user-images.githubusercontent.com/52684942/97268033-97f7ca00-186e-11eb-9b4b-00a4162d9dcb.PNG)<br>
 
 ****
 # 3. 제공 기능
