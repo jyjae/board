@@ -1,0 +1,12 @@
+create table 사원(
+사원번호 number primary key,
+사원명 varchar2(10),
+직책 varchar2(10),
+급여 number(10),
+입사일 date(20),
+부서번호 number);
+
+create table 부서(
+부서번호 number primary key,
+부서명 varchar2(10),
+지역 varchar2(10));
