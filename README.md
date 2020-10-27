@@ -42,10 +42,11 @@
 
 ## 2.2. DB 구성
 ### 2.2.1 member 테이블
-![member_table](https://user-images.githubusercontent.com/52684942/97268610-7c40f380-186f-11eb-8022-810d6c9a25f5.PNG)<br>
+![member_table](https://user-images.githubusercontent.com/52684942/97269923-a1cefc80-1871-11eb-9079-4166b3465b87.PNG)
+<br>
 
 ### 2.2.2 board 테이블
-![board_table](https://user-images.githubusercontent.com/52684942/97268674-924eb400-186f-11eb-889c-fe0d8a379d3f.PNG)
+![board_table](https://user-images.githubusercontent.com/52684942/97269948-aabfce00-1871-11eb-896b-bd89b33cc8a6.PNG)<br>
 
 
 ****
