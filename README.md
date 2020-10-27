@@ -40,6 +40,14 @@
 ## 2.1. SW 구성
 ![board_sw_struct](https://user-images.githubusercontent.com/52684942/97268033-97f7ca00-186e-11eb-9b4b-00a4162d9dcb.PNG)<br>
 
+## 2.2. DB 구성
+### 2.2.1 member 테이블
+![member_table](https://user-images.githubusercontent.com/52684942/97268610-7c40f380-186f-11eb-8022-810d6c9a25f5.PNG)<br>
+
+### 2.2.2 board 테이블
+![board_table](https://user-images.githubusercontent.com/52684942/97268674-924eb400-186f-11eb-889c-fe0d8a379d3f.PNG)
+
+
 ****
 # 3. 제공 기능
 <img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/smart/메인.png" width="226" height="396"><br>
