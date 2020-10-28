@@ -109,43 +109,10 @@
 ```
 ****
 # 4. 사용 기술
-## 4.1. 블루투스 통신 (BlutoothSPP)
-![통신1](https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/smart/통신1.png)
-```
-설명 : 블루투스 변수를 선언하고, 생성자를 정의한다.
-```
-![통신2](https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/smart/통신2.png)
-```
-설명 : 아두이노에서 온 데이터를 data 배열에 넣어 합친 후, message를 통해 Toast 메시지를 출력한다.
-```
-![통신3](https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/smart/통신3.png)
-```
-설명 : 블루투스 연결 버튼 변수를 선언하고, 페어링 되어있는 기기 목록 출력 화면을 생성한다.
-```
-![통신4](https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/smart/통신4.png)
-```
-설명 : 블루투스 중지 및 시작 함수를 선언한다.
-```
+## 4.1. JSP
+## 4.2. Servlet
+## 4.3. AJAX
+## 4.4. Java
 
-## 4.2. 핸들러
-![핸들러1](https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/smart/핸들러1.png)
-```
-설명
-- 블루투스 연결 완료 후, 사용 준비가 되면 자동으로 실행되는 setup() 함수를 정의한다.
-- 종료 버튼 클릭 시, 이전에 진행중이던 예약를 전부 지운다. (Handler 사용)
-```
-![핸들러2](https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/smart/핸들러2.png)
-![핸들러3](https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/smart/핸들러3.png)
-```
-설명
-- 메인스레드와 서브스레드 간에 Handler를 통해 메시지를 전달하여 메시지 큐에 저장하는 방식의 통신을 사용한다.
-- FIFO(First In First OUT) 방식으로 먼저 전달 받은 메시지를 먼저 처리한다.
-```
-
-****
-# 5. 부록
-## 5.1. 참여 목록
-* 
-    
     
  
