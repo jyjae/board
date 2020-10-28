@@ -109,10 +109,10 @@
 ```
 ****
 # 4. 사용 기술
-## 4.1. JSP
-## 4.2. Servlet
-## 4.3. AJAX
-## 4.4. Java
+  1. JSP
+  2. Servlet
+  3. AJAX
+  4. Java
 
     
  
